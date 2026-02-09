@@ -52,6 +52,8 @@ platforms:
       name: "IT之家"
     - id: "github"
       name: "GitHub"
+    - id: "v2ex"
+      name: "V2EX"
 
 
 
